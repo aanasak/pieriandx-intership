@@ -162,3 +162,4 @@ processed_data = process_data(json_data)
 
 # updates fda screening sheet with the acquired data from the parsed json and pdf
 update_fda_screening_sheet(processed_data)
+
